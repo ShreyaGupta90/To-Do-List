@@ -1,4 +1,4 @@
-hl# Command-Line To-Do List Application
+h# Command-Line To-Do List Application
 
 This is a simple yet functional **Command-Line To-Do List** application built in Python. It provides a streamlined way to manage tasks with basic functionalities like adding, viewing, and deleting tasks. This project demonstrates foundational Python skills and offers a practical solution for task management.
 
