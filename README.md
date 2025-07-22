@@ -34,4 +34,14 @@ This is a simple yet functional **Command-Line To-Do List** application built in
 2. Run the application using Python:
    ```bash
    python todo_list.py
+```
+
+---
+
+## 📩 Contact & Contribution
+
+For contributions, feedback, or collaborations, feel free to reach out:  
+- **Author:** Shreya Gupta
+- **Email:** shreyagupta119809@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
 
