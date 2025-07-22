@@ -34,7 +34,7 @@ This is a simple yet functional **Command-Line To-Do List** application built in
 2. Run the application using Python:
    ```bash
    python todo_list.py
-```
+
 
 ---
 
